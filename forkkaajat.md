@@ -1,43 +1,15 @@
 ## Kirjoita nimesi alle ja tee *Pull request*
-1. Erkki Esimerkki
-2. Jouni Jokelainen
-
-
+Erkki Esimerkki
+Jouni Jokelainen
 Katariina Biahun
-
-3. Arto Ryynänen
-
-3. Jouni Marko Petteri Jokelainen
-
-4.
-5. 
-6.
-
-
-
-
-
+Arto Ryynänen
+Jouni Marko Petteri Jokelainen
 oho! OHO!
-
-
-
-
-
-
-
-
+Jukka Laakkonen
 Perttu
-
 Panu Lehtonen
-
-  Jukka Simanainen
-
-
-
-
-
+Jukka Simanainen
 Juho Turunen
-
 Badi Moore
 
 
