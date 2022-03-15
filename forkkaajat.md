@@ -2,4 +2,6 @@
 Erkki Esimerkki  
 Jouni Jokelainen  
 Niklas Kähkönen
+Jouni Jokelainen
+Janne Polvinen
 
