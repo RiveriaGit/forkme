@@ -2,11 +2,11 @@
 Erkki Esimerkki  
 Tom Jones  
 
-Elvis Persley
-Eimo Epeli
+Elvis Persley  
+Eimo Epeli  
 Pekki Savolainen  
-Niklas Kähkönen
+Niklas Kähkönen  
 
-Janne Polvinen
-Jouni Jokelainen
+Janne Polvinen  
+Jouni Jokelainen  
 
