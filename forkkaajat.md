@@ -58,11 +58,11 @@ Jouni Jokelainen
 
 Matti Masa    
 
-
-<<<<<<< HEAD
 Lari Pyykkö  
-=======
+
+
+
 Marko Kakkonen  
 
 
->>>>>>> upstream/main
+
