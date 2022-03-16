@@ -3,15 +3,16 @@ Erkki Esimerkki
 Tom Jones  
 
 
-
-
-
 Jouni Jokelainen  
 
 Elvis Persley  
 Eimo Epeli  
 Pekki Savolainen  
 Niklas Kähkönen  
+
+
+Janne Polvinen  
+
 
 Jouni Jokelainen  
 Janne Polvinen  
@@ -39,4 +40,6 @@ Jouni Jokelainen
 
 Matti Masa    
 
+
+Marko Kakkonen  
 
