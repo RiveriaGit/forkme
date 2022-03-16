@@ -1,17 +1,7 @@
 ## Kirjoita nimesi alle ja tee *Pull request*  
 Erkki Esimerkki  
 Tom Jones  
-
-Jouni Jokelainen  
-
-aksu  
-Elvis Persley  
-Eimo Epeli 
-Pekki Savolainen  
-Niklas Kähkönen    
-
-Jouni Jokelainen  
-Janne Polvinen  
+Susanna Knakkeri  
 
 
 Jouni Jokelainen  
@@ -21,33 +11,21 @@ Eimo Epeli
 Pekki Savolainen  
 Niklas Kähkönen  
 
-
-Janne Polvinen  
-
-
 Jouni Jokelainen  
 Janne Polvinen  
   
   
   
   
+Susanna Knakkeri    
   
   
   
   
   
-  
-  
-
 Aku A. Jokunen
-
-Janne Polvinen
-Jouni Jokelainen
-
-Matti Masa
-
-
-Aleksei Nesterinen
+Susanna Knakkeri 
+Susanna Knakkeri 
 
 
 
@@ -57,8 +35,5 @@ Jouni Jokelainen
 
 
 Matti Masa    
-
-
-Marko Kakkonen  
 
 
