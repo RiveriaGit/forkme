@@ -16,7 +16,7 @@ Niklas Kähkönen
 Jouni Jokelainen  
 Janne Polvinen 
 
-Aleksei Nesterinen
+Aleksei Nesterinen.
   
   
   
