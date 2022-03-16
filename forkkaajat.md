@@ -10,7 +10,7 @@ Niklas Kähkönen
 Jouni Jokelainen  
 Janne Polvinen  
 Susanna Knakkeri    
-Aku A. Jokunen
+Aku A. Jokunen  
 Susanna Knakkeri 
 Jouni Jokelainen  
 Janne Polvinen  
