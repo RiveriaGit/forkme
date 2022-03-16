@@ -23,7 +23,7 @@ Matti Masa
 Lari Pyykkö  
 Jan Keronen  
 Marko Kakkonen  
-Jouni Jokelainen2
-AkuAnkka
+Jouni Jokelainen2  
+AkuAnkka  
 
 
