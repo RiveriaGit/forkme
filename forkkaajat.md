@@ -11,7 +11,7 @@ Jouni Jokelainen
 Janne Polvinen  
 Susanna Knakkeri    
 Aku A. Jokunen  
-Susanna Knakkeri 
+Susanna Knakkeri  
 Jouni Jokelainen  
 Janne Polvinen  
 Aku Ankka     
