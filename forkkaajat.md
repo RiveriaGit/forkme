@@ -1,6 +1,11 @@
 ## Kirjoita nimesi alle ja tee *Pull request*  
 Erkki Esimerkki  
 Tom Jones  
+Elvis Persley  
+Eimo Epeli  
+Pekki Savolainen   
+Niklas Kähkönen  
+Janne Polvinen  
 Jouni Jokelainen  
 Antti H  
 Elvis Persley  
@@ -25,5 +30,6 @@ Jan Keronen
 Marko Kakkonen  
 Jouni Jokelainen2  
 AkuAnkka  
+>>>>>>> b71f46a4ab0511875b79f5a5462fb2a44999be01
 
 
