@@ -1,1 +1,0 @@
-# _Oskari Pennanen_
